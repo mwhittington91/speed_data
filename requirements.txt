@@ -9,12 +9,4 @@ python-dotenv
 BeautifulSoup4
 openpyxl
 xlsxwriter
-supabase
-psycopg2-binary
-tqdm
-langchain
-openai
-langgraph
 pytest
-streamlit
-sqlalchemy
